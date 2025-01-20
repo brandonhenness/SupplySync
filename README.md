@@ -90,7 +90,7 @@ watchdog
 
 ## License
 
-SupplySync is licensed under the GNU General Public License v3.0 (GPL-3.0). For more details, see the [LICENSE](https://www.gnu.org/licenses/gpl-3.0.html) file.
+SupplySync is licensed under the [GNU General Public License v3.0](LICENSE).
 
 ---
 
